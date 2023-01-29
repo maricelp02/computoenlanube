@@ -1,0 +1,10 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: Project1, configuración: Debug x64 ------
+1>Project1.cpp
+1>C:\Users\Juan Pablo\source\repos\Project1\Project1\Project1.cpp(26,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+1>C:\Users\Juan Pablo\source\repos\Project1\Project1\Project1.cpp(27,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+1>C:\Users\Juan Pablo\source\repos\Project1\Project1\Project1.cpp(18,5): warning C4101: 'i': variable local sin referencia
+1>Project1.vcxproj -> C:\Users\Juan Pablo\source\repos\Project1\x64\Debug\Project1.exe
+1>Compilación del proyecto "Project1.vcxproj" terminada.
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= 00:01,993 Transcurrido ===========
